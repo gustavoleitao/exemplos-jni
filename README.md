@@ -4,6 +4,10 @@ Este simples programa demonstra o uso da tecnologia JNI (Java Native Interface) 
 
 Neste exemplo é criado uma simples biblioteca na linguagem C, que depois é chamada através da linguagem Java.
 
+Video explicativo em:
+
+https://youtu.be/Ahcnr_qdCDQ
+
 ## Compilando código nativo
 
 Para compilar o código escrito em C, execute:
